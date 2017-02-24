@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cxy.com.waterviewdemo.activities.MyTopBarActivity">
+
+
+    <!-- gravity 是当前这个组件在父组件内部的对齐方式 -->
+    <!-- layout_gravity 是view内部的元素的对齐方式 -->
+    <cxy.com.waterviewdemo.custom.MyTopBar
+        android:id="@+id/myTopBar"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+
+        app:leftBackground="#A5D982"
+        app:leftText="左键"
+        app:leftTextColor="#F5D982"
+        app:leftTextSize="12sp"
+
+        app:rightBackground="#A5D982"
+        app:rightText="右键"
+        app:rightTextColor="#F5D982"
+        app:rightTextSize="12sp"
+
+        app:title="标题栏"
+        app:titleTextColor="#123456"
+        app:titleTextSize="15sp" />
+
+</LinearLayout>

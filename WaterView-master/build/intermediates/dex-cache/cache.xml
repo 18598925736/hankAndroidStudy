@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_db28f011c44e7e7713442fd345b68282e96bbb7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_11796f2bf0c145eb37439994c26c6ea1b2e33a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_672ba3aa0771b9f723e70b83d2c39086cb0721e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d2ac6493843626785dda92d9855c8b54d1cf38f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_73bbd6dc7c3969cacb2b33a38e835088fbb7a1c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ba2e91f78b93082f521ff2f07e69e60927957915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_7eccd0d0379a74744b215e9ce3852d6f8976339b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_b9137728f4253c3ce17430ac3f7e12215d3f8d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_a6ce064428f1221dd902bd7ced57ee4c78e6f5b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6e4ec6e654877fadc7d3875b7ce56976fa6f28cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_cac091bc4f6158bfa5d587b9088e415f3b628b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\new1\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7519583467caba9a84614bd6cc525c12aecf5010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_65310b0955187fe0e9187759d68fe9680b268463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_060dfb5ce35cd6379d481dc24db545ebb798b513.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bfdd5ba83b5b6776eb66e7153ea5552d5cf00844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_7ce975cf84b964234972ccc6d9a5c1401b2af4a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_956b2c5f1525a1c4dfbf2be4bb9b02f173771df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\f\WaterView-master\WaterView-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\f\WaterView-master\WaterView-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e677bffde06bf2ab7ad39aa0c9d1c57f3acb06f4.jar" />
+    </item>
+
+</items>

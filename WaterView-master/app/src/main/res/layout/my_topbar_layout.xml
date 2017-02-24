@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cxy.com.waterviewdemo.custom.MyTopBar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/main_myTopBar"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:gravity="center"
+
+    app:leftBackground="#A5D982"
+    app:leftText="左键"
+    app:leftTextColor="#F5D982"
+    app:leftTextSize="12sp"
+
+    app:rightBackground="#A5D982"
+    app:rightText="右键"
+    app:rightTextColor="#F5D982"
+    app:rightTextSize="12sp"
+
+    app:title="标题栏"
+    app:titleTextColor="#123456"
+    app:titleTextSize="18sp">
+
+
+</cxy.com.waterviewdemo.custom.MyTopBar>
